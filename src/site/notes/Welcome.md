@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/Welcome/","tags":["gardenEntry"]}
 ---
 
 # Mikkel Schöttner Sieler, PhD

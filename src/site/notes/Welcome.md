@@ -4,6 +4,8 @@
 
 # Mikkel Schöttner Sieler, PhD
 
+![CV picture small.jpg](/img/user/CV%20picture%20small.jpg)
+
 I am Mikkel Schöttner Sieler, data scientist, neuroscientist, and psychologist. I love working with data, visualizing insights and communicating them. If you want to work with me or simply have a chat, feel free to add me on [LinkedIn](https://www.linkedin.com/in/mikkel-schoettner/). Also check out [Github](https://github.com/mschoettner) for coding projects and [Google Scholar](https://scholar.google.com/citations?user=XQbbbysAAAAJ&hl=de) for my scientific publications.
 
 | **Analyzing**                                                                                                                                                                                                                                                  | **Visualizing**                                                                                                                                                                                                                     | **Communicating**                                                                                                                                                                                                   |

@@ -15,7 +15,10 @@
 
 
 ## Projects
-
+### Brain-Behavior Prediction
+[Github Repository](https://github.com/mschoettner/Comparing-and-Scaling-fMRI-Features-for-Behavior-Prediction), [Article on Arxiv](https://arxiv.org/abs/2507.20601)
+Predicting mental and behavioral traits from neuroimaging could provide a more robust way to diagnose mental and neurological disorders. In this work, I compared various neuroimaging features in how well they predict cognition, age, and sex of subjects, and how well this prediction scales with the amount of training data. In the project I used **Elastic-Net and Kernel Ridge regression** in **Scikit-Learn**.
+![Pasted image 20250729160419.png](/img/user/Pasted%20image%2020250729160419.png)
 ### Behavioral Domains
 [Github Repository](https://github.com/connectomicslab/hcp-behavioral-domains) [Journal Article](https://www.nature.com/articles/s41598-022-27101-1)
 The structure of our behavior, meaning what traits make up what we do and how we think, is one of the central questions in psychology and neuroscience. In this work, I used **factor analysis**, an **unsupervised learning** technique to explore this question. Through a combination of methods, I found four central behavioral domains in this dataset. This work resulted in a [publication in Scientific Reports](https://www.nature.com/articles/s41598-022-27101-1).

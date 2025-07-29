@@ -4,9 +4,9 @@
 
 # Mikkel Schöttner Sieler, PhD
 
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |                           |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
-| I am Mikkel Schöttner Sieler, data scientist, neuroscientist, and psychologist. I love working with data, visualizing insights and communicating them. If you want to work with me or simply have a chat, feel free to add me on [LinkedIn](https://www.linkedin.com/in/mikkel-schoettner/). Also check out [Github](https://github.com/mschoettner) for coding projects and [Google Scholar](https://scholar.google.com/citations?user=XQbbbysAAAAJ&hl=de) for my scientific publications. | ![CV picture small.jpg](/img/user/CV%20picture%20small.jpg) |
+|                           |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![CV picture small.jpg](/img/user/CV%20picture%20small.jpg) | I am Mikkel Schöttner Sieler, data scientist, neuroscientist, and psychologist. I love working with data, visualizing insights and communicating them. If you want to work with me or simply have a chat, feel free to add me on [LinkedIn](https://www.linkedin.com/in/mikkel-schoettner/). Also check out [Github](https://github.com/mschoettner) for coding projects and [Google Scholar](https://scholar.google.com/citations?user=XQbbbysAAAAJ&hl=de) for my scientific publications. |
 
 
 | **Analyzing**                                                                                                                                                                                                                                                  | **Visualizing**                                                                                                                                                                                                                     | **Communicating**                                                                                                                                                                                                   |
@@ -28,15 +28,6 @@
 ![Pasted image 20250729152341.png](/img/user/Pasted%20image%2020250729152341.png)
 
 
-Mikkel Schöttner is a third year PhD student in neuroscience at the Connectomics Lab, situated at University of Lausanne and the Lausanne University Hospital (UNIL/CHUV). He is supervised by Prof. Patric Hagmann.
-
-His research interests include the prediction of behavioral traits from neuroimaging data, ontologies of the mind, graph signal processing, combining functional, structural, and diffusion MRI. Specifically, he is interested in predicting behavioral traits from neuroimaging data, using graph signal processing and machine learning. Furthermore he researches how behavior organizes, exploring the dimensional structure of different behavioral traits. He researches this in healthy participants and patients with psychosis. In his thesis, he combines all these topics to explore how they can advance our ability to use neuroimaging biomarkers of mental illness.
-
-In a past project he explored the dimensional structure of the behavioral data in the Human Connectome Project, as described in [this article](https://mschoettner.github.io/).
-
-Additionally, he likes to do hackathons, having contributed to [Connectomemapper](https://connectome-mapper-3.readthedocs.io/en/latest/) with a [tutorial](https://connectome-mapper-3.readthedocs.io/en/latest/notebooks/analysis_tutorial.html), and co-leading a project on interpreting the image quality metrics from [MRIQC](https://mriqc.readthedocs.io/en/latest/), which resulted in a [conference abstract](https://osf.io/7vqzr) and a [tutorial notebook](https://www.nipreps.org/qc-book/auto-qc/iqms_interpretability.html).
-
-Mikkel holds a Master of Science in Cognitive and Integrative Systems Neuroscience from the University of Marburg and a Bachelor of Science in Psychology from the University of Bremen.
 
 ## Personal
 

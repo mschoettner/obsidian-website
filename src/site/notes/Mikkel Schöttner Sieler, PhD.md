@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/mikkel-schoettner-sieler-ph-d/","tags":["gardenEntry"]}
 ---
 
+# Mikkel Schöttner Sieler, PhD
+
 I am Mikkel Schöttner Sieler, data scientist, neuroscientist, and psychologist. I love working with data, visualizing insights and communicating them. If you want to work with me or simply have a chat, feel free to add me on [LinkedIn](https://www.linkedin.com/in/mikkel-schoettner/). Also check out [Github](https://github.com/mschoettner) and [Google Scholar](https://scholar.google.com/citations?user=XQbbbysAAAAJ&hl=de) for my scientific publications.
 
 
